@@ -1,0 +1,26 @@
+skillKeywordsAnd = 
+{
+'android': ['ios', 'mobile', 'java', 'apis', 'rest', 'play'],
+'angular': ['react', 'node', 'bootstrap'],
+'java': ['spring', 'j2ee', 'sql', 'javascript', 'jee', 'mvc', 'mobile', 'python', 'html', 'android', 'php', 'oracle', 'websphere', 'junit', 'rest', 'database', 'xml', 'soa', 'solid', 'ruby', 'struts'],
+'javascript': ['jquery', 'cs'', 'angular', 'html', 'react', 'ajax', 'backbone', 'node', 'php', 'python', 'sql'],
+'jquery': ['css', 'html', 'rest', 'bootstrap', 'ajax', 'angular', 'dojo'', 'java'],
+'node': ['java', 'ruby', 'python'],
+'python': ['django', 'sql', 'java', 'linux']
+}
+ 
+ 
+
+
+
+skillKeywordsOr = 
+{
+'android': ['ios'],
+'angular': ['react', 'backbone', 'javascript', 'css', 'jquery'],
+'java': ['python', 'scala', 'php', 'jvm', 'sql', 'ruby', 'rails', 'groovy', 'clojure'],
+'javascript': ['python', 'jquery', 'angular', 'ajax'],
+'jquery': ['javascript', 'backbone', 'ext', 'ajax'],
+'node': ['ruby'],
+'python': ['java', 'javascript', 'golang', 'linux', 'sql', 'aws', 'node', 'lua', 'oo', 'unix', 'perl', 'go', 'scala', 'rails']
+}
+
